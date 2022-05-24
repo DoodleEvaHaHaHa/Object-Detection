@@ -1,0 +1,30 @@
+#heading
+{
+    font-family: 'Koulen', cursive;
+    font-size: 45px;
+    width: 100%;
+    margin: 0px;
+    text-decoration: dotted;
+    text-align: center;
+}
+
+.link
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    background: white;
+    border-radius: 20px;
+    width: 300px;
+    margin-top: 15px;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+.background
+{
+    background-size: cover;
+    background-position: center;
+}
